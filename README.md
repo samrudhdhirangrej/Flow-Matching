@@ -1,4 +1,4 @@
-# Flow-Matching
+# Flow Matching
 
 This repository contains brief notes about *flow matching* and basic implementation from scratch.
 
